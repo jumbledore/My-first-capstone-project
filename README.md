@@ -18,4 +18,11 @@ I have learnt basic excel techniques and to employ them to create an interactive
 
 Under marital status, edited "Yolo", "Alone", "Widowed" to "Single"
 
+#### Conclusions drawn from data
+- Majority of customers come from Spain, Saudi Arabia.
+- Middle class income group are the largest spenders; highest number of purchase.
+- Huge expenditure on wine across all income group.
+- Couples generally spend higher than singles.
+- Expenditure on meat is not porpotional to income.
+
 [Link to LinkedIn](https://www.linkedin.com/in/jeremy-tay-116124139/)
