@@ -1,6 +1,4 @@
-# Dillinger
-
-# My first capstone
+# My first capstone project
 
 ### A marketing analysis
 
@@ -8,15 +6,15 @@
 
 [Link to dataset](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
 
-Description of dataset
+#### Description of dataset
 
 Marketing campaign data of 2,240 customers of Maven Marketing, including customer profiles, product preferences, campaign successes/failures, and channel performance.
 
-What you learned
+#### What you learned
 
 I have learnt basic excel techniques and to employ them to create an interactive dashboard. Excel techniques include the use of pivot table, slicer, macro.
 
-Edits made to raw data set
+#### Edits made to raw data set
 
 Under marital status, edited "Yolo", "Alone", "Widowed" to "Single"
 
